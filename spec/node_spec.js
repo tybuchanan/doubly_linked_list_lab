@@ -1,4 +1,4 @@
-var Node = require("../app/javascripts/Node.js");
+var Node = require("../app/javascripts/node.js");
 
 
 describe("Node", function(){

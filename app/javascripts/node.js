@@ -13,6 +13,7 @@ Node.prototype.setPrevious = function(node){
   return this;
 };
 
+// like raise/rescue in Ruby
 try {
   module.exports = Node;
 } catch(e){
